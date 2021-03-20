@@ -31,6 +31,20 @@ app.get('/product', function (req, res) {
   });
 })
 
+// Find the Obsolete Product
+app.get('/product', function (req, res) {
+  db.all("SELECT * FROM product WHERE type = B AND price > 20", (err, rows) => {
+    // OBSOLETED when the type is B and price is higher than $20 at this moment.
+    db.run(`INSERT INTO obsoleted (product_id) VALUES (False)`, (err) => {
+      if (err) {
+        res.status(400).json({ "error": err.message });
+        return;
+      }
+      /*db.all(`SELECT p.id,p.name,p.price FROM cart_item ct INNER JOIN product p on ct.product_id = p.id`, (err, rows) => {
+      res.status(201).json({ "data": rows });
+      */
+  });
+}) 
 
 //Get membership info 
 // app.get('/membership', function (req, res) {
