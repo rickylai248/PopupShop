@@ -1,4 +1,4 @@
-# Prototype e-commerce B2C online website
+# Ricky's Prototype e-commerce B2C online website
 
 ## 1. Software Requirements
 - NPM version 6.14.4 above (Package Manager)
