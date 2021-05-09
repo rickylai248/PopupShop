@@ -1,6 +1,6 @@
 # Ricky's Prototype e-commerce B2C online website
 
-Inspired from Indigo!
+Inspired from Indigo!!
 
 Indigo Books & Music Inc., known as "Indigo" and stylized "!ndigo", is a Canadian bookstore chain. It is Canada's largest book, gift, and specialty toy retailer, operating stores in all ten provinces and one territory, and through a website offering a selection of books, toys, home décor, stationery, and gifts.
 
