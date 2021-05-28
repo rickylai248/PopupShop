@@ -1,4 +1,4 @@
-# Ricky's Prototype e-commerce B2C online website
+# Ricky's Prototype e-commerce B2C online website!
 
 Inspired from Indigo!
 
