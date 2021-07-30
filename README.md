@@ -6,7 +6,7 @@ Indigo Books & Music Inc., known as "Indigo" and stylized "!ndigo", is a Canadia
  
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/IndigoKids.jpg/1920px-IndigoKids.jpg)
  
-## 1. Software Requirements
+## 1. Software Requirements 
 - NPM version 6.14.4 above (Package Manager)
 - Node JS version 10.19.0 above (Runtime Environment)
  
