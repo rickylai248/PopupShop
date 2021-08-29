@@ -9,7 +9,7 @@ Indigo Books & Music Inc., known as "Indigo" and stylized "!ndigo", is a Canadia
 ## 1. Software Requirements 
 - NPM version 6.14.4 above (Package Manager)
 - Node JS version 10.19.0 above (Runtime Environment)
- 
+  
 ## 2. Setup
 npm install
 node server.js
